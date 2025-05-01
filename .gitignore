@@ -1,0 +1,10 @@
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# エディタやOS固有
+*.DS_Store
+*.sw
+
+# .gitignore
+*.ipynb
